@@ -5,7 +5,7 @@ function TextPages() {
   return (
     <div>
         <p>
-            <Image src="/11.png" alt="Alternative"  width={30} height={30}/>
+            <Image src="/11.png" alt="Alternative"  width={250} height={300}/>
         </p>
     </div>
   )
